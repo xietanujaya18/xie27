@@ -1,0 +1,28 @@
+<!doctype html>
+html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+    content="width=device-width,initial-scale=1.0">
+    <title>Biodata M.Rizki irawan</title>
+    <link rel=""stylesheet"
+    href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="fade-in">
+            BIODTA DIRI</h1>
+            <p class="intro slide-in">Hai Guys,perkenalkan saya adalah salah satu siswa dari<strong>SMKN2 Probolinggo</strong>,berikut adalah biodata tentang saya!</p>
+
+            <div class="biodata">
+                <p class="fade-in"><strong>Nama:</strong>M.RIZKI IRAWAN</p>
+            <P class="fade-in>"><strong>Lahir:</strong>Probolinggo,02 april 2008</P>
+            <P class="fade-in>"><strong>Umur</strong>16 Tahun</P>
+            <P class="fade-in>"><strong>Hobi:</strong>Mempelajari bahasa pemrograman dan kegunaan Kali Linux</P>
+            <P class="fade-in>"><strong>Makanan Favorite:</strong>Nasi Goreng Seafood</P>
+            <P class="fade-in>"><strong>Alasan masuk TKJ:</strong></P>
+            <P class="alasan slide-in">saya masuk jurusan TKJ agar saya dapat mengetahui ilmu yang berhubungan dengan teknologi dan saya ingin mendalami pemahaman saya mengenai cyber security dan soerce code bahasa pemrograman.</P>
+            </div>
+         </div>
+</body>
+</html>
